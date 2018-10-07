@@ -1,11 +1,15 @@
-# Angular 6 website
+# AD Angular 6 website
 
-# Check out videos series on creating an angular 6 website on the link below on youtube
+# How to run it :
+<ul>
+  <li>download this project</li>
+  <li>run<strong> npm install</strong></li>
+  <li>after it finishes run <strong>ng server --open</strong></li>
 
-[My youTube Channel](https://www.youtube.com/channel/UCcfCHgDDBw65jdnd9DTKwgg)
-[Creating your first website with angular 6 - Video Playlist](https://www.youtube.com/playlist?list=PLY7EDLM5qnl47r52Rf3h4AEq9TRooTgo2)
+</ul>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+## SCREENSHOT:
+<img>
 
 ## Development server
 
